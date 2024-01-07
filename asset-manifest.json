@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/REP_CART/static/css/main.0909da73.css",
+    "main.js": "/REP_CART/static/js/main.ece09f07.js",
+    "index.html": "/REP_CART/index.html",
+    "main.0909da73.css.map": "/REP_CART/static/css/main.0909da73.css.map",
+    "main.ece09f07.js.map": "/REP_CART/static/js/main.ece09f07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0909da73.css",
+    "static/js/main.ece09f07.js"
+  ]
+}
